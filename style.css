@@ -1,3 +1,20 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+* {
+
+    box-sizing: border-box;
+        
+}
+
+body {
+
+    margin: 0;
+        
+}
+
 div {
     border-style: solid;
     border-color: #B4B4B4;
